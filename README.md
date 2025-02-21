@@ -18,4 +18,8 @@ Progress Tracker: View the progress of your tasks in the progress tracker.
 
 
 
+<<<<<<< HEAD
 <img width="1440" alt="Screenshot 2025-02-05 at 10 31 29 AM" src="https://github.com/user-attachments/assets/5740fdc8-145a-4f02-81a5-041a1cab4059" />
+=======
+<img width="1440" alt="Screenshot 2025-02-05 at 10 31 29 AM" src="https://github.com/user-attachments/assets/5740fdc8-145a-4f02-81a5-041a1cab4059" />
+>>>>>>> 4cd27fe (Added Code to Files)
